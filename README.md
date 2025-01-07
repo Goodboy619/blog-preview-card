@@ -20,8 +20,8 @@ This project is part of a Frontend Mentor challenge, designed to help improve HT
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL]([)
+- Live Site URL: [live site]([https://your-live-site-url.com](https://goodboy619.github.io/blog-preview-card/))
 
 ## My process
 
