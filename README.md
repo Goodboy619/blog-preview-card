@@ -21,7 +21,7 @@ This project is part of a Frontend Mentor challenge, designed to help improve HT
 ### Links
 
 - Solution URL: [solution URL]([)
-- Live Site URL: [live site]([https://goodboy619.github.io/blog-preview-card)
+- Live Site URL: [live site URL]([https://goodboy619.github.io/blog-preview-card)
 
 ## My process
 
